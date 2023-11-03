@@ -1,4 +1,4 @@
-# NCL sample project folder
+# BSOL sample project folder
 
 This git repository contains a shell that should be used as the default structure for new projects
 in the analytical team.  It won't fit all circumstances perfectly, and you can make changes and issue a 
