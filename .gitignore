@@ -11,11 +11,17 @@
 /output/
 
 # Exclude data file types
-*.doc
-*.docx
 *.xls
 *.xlsx
 *.xlsm
 *.xlsb
 *.csv
+
+
+# Exclude output formats
+*.doc
+*.docx
+*.html
 *.pdf
+*.ppt
+*.pptx
